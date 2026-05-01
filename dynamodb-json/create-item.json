@@ -1,0 +1,6 @@
+{
+  "StudentID": {"S": "101"},
+  "Name": {"S": "Sanjana"},
+  "Department": {"S": "CSE-AIML"},
+  "Marks": {"N": "85"}
+}
