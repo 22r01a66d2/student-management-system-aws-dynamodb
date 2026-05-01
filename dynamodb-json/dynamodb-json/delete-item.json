@@ -1,0 +1,6 @@
+{
+  "TableName": "Students",
+  "Key": {
+    "StudentID": {"S": "101"}
+  }
+}
