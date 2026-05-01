@@ -1,0 +1,13 @@
+{
+  "TableName": "Students",
+  "Key": {
+    "StudentID": {"S": "101"}
+  },
+  "UpdateExpression": "SET #nm = :newName",
+  "ExpressionAttributeNames": {
+    "#nm": "Name"
+  },
+  "ExpressionAttributeValues": {
+    ":newName": {"S": "Sanjana Reddy"}
+  }
+}
